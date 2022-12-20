@@ -1,8 +1,12 @@
 {
-  "nom": "Scholer",
-  "prenom": "Frédéric",
-  "datenaissance": "04/11/1965",
-  "eMail": "frederic.scholer@gmail.com",
-  "adressePostale": "Avenue d'Audrghem 190, 1040 Etterbeek",
-  "telephone": "0486/83.46.23"
+  "jobs": [
+    {
+      "nom": "Scholer",
+      "prenom": "Frédéric",
+      "datenaissance": "04/11/1965",
+      "eMail": "frederic.scholer@gmail.com",
+      "adressePostale": "Avenue d'Audrghem 190, 1040 Etterbeek",
+      "telephone": "0486/83.46.23"
+    }
+  ]
 }
